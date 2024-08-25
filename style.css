@@ -1,0 +1,19 @@
+.prerana{
+    border: 1px solid black;
+    height: auto;
+    width:auto;
+    background-image: url(rodion-kutsaiev-IJ25m7fXqtk-unsplash.jpg);
+ background-size: cover ;
+}
+.nav-item:hover{
+background-color: blanchedalmond;
+}
+.radhe:hover{
+cursor: grab;
+
+}
+.slider-btn{
+    background-color: darkgreen;
+    font-weight: bold;
+    color: black;
+}
